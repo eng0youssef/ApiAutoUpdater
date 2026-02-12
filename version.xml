@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-  <Version>2.0.0.0</Version>
-  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.2/MazayaAppAPI.exe</DownloadUrl>
-  <ReleaseNotes>تمت إضافة تقارير المخازن
+  <Version>2.1.0.0</Version>
+  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.1.0/MazayaAppAPI.exe</DownloadUrl>
+  <ReleaseNotes>تم اضافة تقارير المشتريات
   </ReleaseNotes>
 </UpdateInfo>
+
 
 
 
