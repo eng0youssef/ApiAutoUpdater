@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-  <Version>2.4.0.0</Version>
-  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.4.0/MazayaAppAPI.exe</DownloadUrl>
-  <ReleaseNotes>تم إضافة تسجيل البيانات الأساسية
-    مثل بيانات الأصناف و العملاء و هكذا
+  <Version>2.5.0.0</Version>
+  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.5.0/MazayaAppAPI.exe</DownloadUrl>
+  <ReleaseNotes>تم إضافة طباعة الريسيت في صفحات الخزينة
+    تم تحديث اختيار الاصناف وإتاحة اختيار أكتر من صنف
   </ReleaseNotes>
 </UpdateInfo>
 
