@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-  <Version>2.5.1.0</Version>
-  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.5.1/MazayaAppAPI.exe</DownloadUrl>
-  <ReleaseNotes>تم إضافة طباعة الريسيت في صفحات الخزينة
-    تم تحديث اختيار الاصناف وإتاحة اختيار أكتر من صنف
-  </ReleaseNotes>
+  <Version>2.5.2.0</Version>
+  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.5.2/MazayaAppAPI.exe</DownloadUrl>
+  <ReleaseNotes>تعديل في تنسيق فاتورة الريسيت في المبيعات  </ReleaseNotes>
 </UpdateInfo>
 
 
