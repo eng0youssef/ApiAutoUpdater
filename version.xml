@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-  <Version>2.5.4.0</Version>
-  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.5.4/MazayaAppAPI.exe</DownloadUrl>
-  <ReleaseNotes>تحسينات في أداء وسرعة النظام  </ReleaseNotes>
+  <Version>2.5.5.0</Version>
+  <DownloadUrl>https://github.com/eng0youssef/ApiAutoUpdater/releases/download/V2.5.5/MazayaAppAPI.exe</DownloadUrl>
+  <ReleaseNotes>اضافة فلتر اخفاء الارصدة صفر في كافة الفواتير
+               اضافة سعر البيع 4 في كافة الفواتير
+    تحسين فاتورة الريسيت في كافة الفواتير</ReleaseNotes>
 </UpdateInfo>
 
 
